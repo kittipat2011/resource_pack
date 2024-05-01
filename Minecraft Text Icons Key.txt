@@ -1,53 +1,54 @@
-﻿----- Icon -----
+﻿----- Economy -----
+<>: piggybank
+<>: coin
+----- Rank -----
 <>: Novice
 <>: Elite
 <>: Admin
+----- Location -----
 <>: Skyblock
 <>: Exploration
 <>: Boss
-<>: piggybank
-<>: coin
 ----- Gui -----
 <>: Negative Space
 <>: Island
-
+<>: green_alert
+<>: green_arrow_down
+<>: green_arrow_left
+<>: green_arrow_right
+<>: green_arrow_up
+<>: green_no
+<>: green_question
+<>: green_star
+<>: green_yes
+<>: red_alert
+<>: red_arrow_down
+<>: red_arrow_left
+<>: red_arrow_right
+<>: red_arrow_up
+<>: red_no
+<>: red_question
+<>: red_star
+<>: red_yes
+<>: yellow_alert
+<>: yellow_arrow_down
+<>: yellow_arrow_left
+<>: yellow_arrow_right
+<>: yellow_arrow_up
+<>: yellow_no
+<>: yellow_question
+<>: yellow_star
+<>: yellow_yes
+<>: grey_alert
+<>: grey_arrow_down
+<>: grey_arrow_left
+<>: grey_arrow_right
+<>: grey_arrow_up
+<>: grey_no
+<>: grey_question
+<>: grey_star
+<>: grey_yes
 ----- To be add -----
-<>: Dirt
-<>: Coarse Dirt
-<>: Podzol (Side)
-<>: Podzol (Top)
-<>: Cobblestone
-<>: Oak Planks
-<>: Spruce Planks
-<>: Birch Planks
-<>: Jungle Planks
-<>: Acacia Planks
-<>: Dark Oak Planks
-<>: Oak Sapling
-<>: Spruce Sapling
-<>: Birch Sapling
-<>: Jungle Sapling
-<>: Acacia Sapling
-<>: Dark Oak Sapling
-<>: Bedrock
-<>: Water (Still)
-<>: Water (Flowing)
-<>: Lava (Still)
-<>: Lava (Flowing)
-<>: Sand
-<>: Red Sand
-<>: Gravel
-<>: Gold Ore
-<>: Iron Ore
-<>: Coal Ore
-<>: Oak Log (Side)
-<>: Oak Log (Top)
-<>: Spruce Log (Side)
-<>: Spruce Log (Top)
-<>: Birch Log (Side)
-<>: Birch Log (Top)
-<>: Jungle Log (Side)
-<>: Jungle Log (Top)
 <>: Acacia Log (Side)
 <>: Acacia Log (Top)
 <>: Dark Oak Log (Side)

@@ -1,0 +1,8 @@
+{
+  "parent": "item/template_outlined_block",
+  "textures": {
+      "particle": "block/cut_copper",
+      "block": "block/cut_copper",
+      "outline": "block/waxed_block_outline"
+  }
+}

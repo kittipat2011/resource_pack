@@ -1,0 +1,77 @@
+{
+    "providers": [
+        {
+            "type": "ttf",
+            "file": "font.ttf",
+            "size": 16,
+            "shift": [
+                0.0,
+                -1.0
+            ],
+            "oversample": 16.0
+        },
+		{
+			"type": "bitmap",
+			"file": "minecraft:custom/rank/novice.png",
+			"ascent": 9,
+			"height": 10,
+			"chars": [""]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:custom/rank/elite.png",
+			"ascent": 9,
+			"height": 10,
+			"chars": [""]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:custom/rank/admin.png",
+			"ascent": 9,
+			"height": 10,
+			"chars": [""]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:custom/rank/skyblock.png",
+			"ascent": 9,
+			"height": 9,
+			"chars": [""]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:custom/rank/exploration.png",
+			"ascent": 9,
+			"height": 9,
+			"chars": [""]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:custom/rank/boss.png",
+			"ascent": 9,
+			"height": 9,
+			"chars": [""]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:custom/rank/dragon.png",
+			"ascent": 9,
+			"height": 10,
+			"chars": [""]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:custom/gui/island.png",
+			"ascent": 11,
+			"height": 138,
+			"chars": [""]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:custom/gui/space_split.png",
+			"ascent": -32768,
+			"height": -4,
+			"chars": [""]
+		}
+    ]
+}

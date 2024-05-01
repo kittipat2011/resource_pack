@@ -1,0 +1,90 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "block/hopper",
+		"1": "block/hopper_side_top",
+		"particle": "block/hopper_side_top"
+	},
+	"elements": [
+		{
+			"name": "Top Outer",
+			"from": [0, 10, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 6], "texture": "#0"},
+				"east": {"uv": [0, 0, 16, 6], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 6], "texture": "#0"},
+				"west": {"uv": [0, 0, 16, 6], "texture": "#0"},
+				"down": {"uv": [14, 14, 16, 16], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Inside",
+			"from": [14, 16, 14],
+			"to": [2, 11, 2],
+			"faces": {
+				"north": {"uv": [14, 5, 2, 0], "texture": "#0"},
+				"east": {"uv": [14, 5, 2, 0], "texture": "#0"},
+				"south": {"uv": [14, 5, 2, 0], "texture": "#0"},
+				"west": {"uv": [14, 5, 2, 0], "texture": "#0"},
+				"up": {"uv": [2, 2, 14, 14], "rotation": 180, "texture": "#1"}
+			}
+		},
+		{
+			"name": "Middle",
+			"from": [4, 4, 4],
+			"to": [12, 10, 12],
+			"faces": {
+				"north": {"uv": [0, 6, 8, 12], "texture": "#0"},
+				"east": {"uv": [0, 6, 8, 12], "texture": "#0"},
+				"south": {"uv": [0, 6, 8, 12], "texture": "#0"},
+				"west": {"uv": [0, 6, 8, 12], "texture": "#0"},
+				"down": {"uv": [8, 6, 16, 14], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Bottom",
+			"from": [6, 4, 0],
+			"to": [10, 8, 4],
+			"faces": {
+				"north": {"uv": [4, 12, 8, 16], "texture": "#0"},
+				"east": {"uv": [4, 12, 0, 16], "texture": "#0"},
+				"west": {"uv": [0, 12, 4, 16], "texture": "#0"},
+				"up": {"uv": [12, 12, 8, 16], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [12, 16, 16, 12], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Top Up North",
+			"from": [0, 16, 0],
+			"to": [16, 16, 2],
+			"faces": {
+				"up": {"uv": [0, 0, 16, 2], "texture": "#1"}
+			}
+		},
+		{
+			"name": "Top Up South",
+			"from": [0, 16, 14],
+			"to": [16, 16, 16],
+			"faces": {
+				"up": {"uv": [0, 0, 16, 2], "rotation": 180, "texture": "#1"}
+			}
+		},
+		{
+			"name": "Top Up West",
+			"from": [0, 16, 2],
+			"to": [2, 16, 14],
+			"faces": {
+				"up": {"uv": [2, 0, 14, 2], "rotation": 270, "texture": "#1"}
+			}
+		},
+		{
+			"name": "Top Up East",
+			"from": [14, 16, 2],
+			"to": [16, 16, 14],
+			"faces": {
+				"up": {"uv": [2, 0, 14, 2], "rotation": 90, "texture": "#1"}
+			}
+		}
+	]
+}

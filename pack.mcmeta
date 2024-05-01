@@ -1,0 +1,19 @@
+{
+  "pack": {
+    "pack_format": 15,
+    "supported_formats": [18, 32],
+    "description": "§6from §fWhimscape §6Resource Pack \n§8|§7 ใช้สำหรับภายในเซิร์พ"
+  },
+  "overlays": {
+    "entries": [
+      {
+        "directory": "format_18-19",
+        "formats": [18, 19]
+      },
+      {
+        "directory": "format_18-27",
+        "formats": [18, 27]
+      }
+    ]
+  }
+}

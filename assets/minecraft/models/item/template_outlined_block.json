@@ -1,0 +1,33 @@
+{
+	"parent": "block/block",
+	"elements": [
+		{
+			"name": "Block",
+			"from": [0.8889, 0.8889, 0.8889],
+			"to": [15.1111, 15.1111, 15.1111],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9, 9, 9]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#block"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#block"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#block"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#block"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#block"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#block"}
+			}
+		},
+		{
+			"name": "Outline",
+			"from": [16, 16, 16],
+			"to": [0, 0, 0],
+			"shade": false,
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#outline"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#outline"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#outline"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#outline"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#outline"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#outline"}
+			}
+		}
+	]
+}

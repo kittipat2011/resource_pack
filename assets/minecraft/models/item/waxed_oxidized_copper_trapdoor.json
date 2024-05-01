@@ -1,0 +1,7 @@
+{
+  "parent": "item/template_outlined_trapdoor",
+  "textures": {
+      "texture": "block/oxidized_copper_trapdoor",
+      "outline": "block/waxed_block_outline"
+  }
+}

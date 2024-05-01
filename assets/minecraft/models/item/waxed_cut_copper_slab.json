@@ -1,0 +1,10 @@
+{
+  "parent": "item/template_outlined_slab",
+  "textures": {
+      "particle": "block/cut_copper",
+      "bottom": "block/cut_copper",
+      "top": "block/cut_copper",
+      "side": "block/cut_copper",
+      "outline": "block/waxed_block_outline"
+  }
+}

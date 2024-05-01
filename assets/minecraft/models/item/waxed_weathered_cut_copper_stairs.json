@@ -1,0 +1,10 @@
+{
+  "parent": "item/template_outlined_stairs",
+  "textures": {
+      "particle": "block/weathered_cut_copper",
+      "bottom": "block/weathered_cut_copper",
+      "top": "block/weathered_cut_copper",
+      "side": "block/weathered_cut_copper",
+      "outline": "block/waxed_block_outline"
+  }
+}

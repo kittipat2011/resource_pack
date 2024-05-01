@@ -5,14 +5,13 @@
 <>: Skyblock
 <>: Exploration
 <>: Boss
-
+<>: piggybank
+<>: coin
 ----- Gui -----
 <>: Negative Space
 <>: Island
 
 ----- To be add -----
-<>: Grass Block (Side)
-<>: Grass Block (Top)
 <>: Dirt
 <>: Coarse Dirt
 <>: Podzol (Side)

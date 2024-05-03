@@ -4,6 +4,7 @@
     "layer0": "minecraft:item/iron_ingot"
   },
   "overrides": [
-    { "predicate": {"custom_model_data": 1}, "model": "custom/grid"}
+    { "predicate": {"custom_model_data": 1}, "model": "custom/grid"},
+    { "predicate": {"custom_model_data": 2}, "model": "custom/empty"}
   ]
 }

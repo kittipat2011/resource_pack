@@ -1,17 +1,21 @@
 ﻿----- Economy -----
 <>: piggybank
 <>: coin
+
 ----- Rank -----
 <>: Novice
 <>: Elite
 <>: Admin
+
 ----- Location -----
 <>: Skyblock
 <>: Exploration
 <>: Boss
+
 ----- Gui -----
 <>: Negative Space
 <>: Island
+<>: Craft
 <>: green_alert
 <>: green_arrow_down
 <>: green_arrow_left
@@ -48,6 +52,7 @@
 <>: grey_question
 <>: grey_star
 <>: grey_yes
+
 ----- To be add -----
 <>: Acacia Log (Side)
 <>: Acacia Log (Top)

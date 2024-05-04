@@ -7,6 +7,9 @@
 <>: Elite
 <>: Admin
 
+----- Icon -----
+<>: clock
+<>: Compass
 ----- Location -----
 <>: Skyblock
 <>: Exploration
@@ -54,9 +57,6 @@
 <>: grey_yes
 
 ----- To be add -----
-<>: Acacia Log (Side)
-<>: Acacia Log (Top)
-<>: Dark Oak Log (Side)
 <>: Dark Oak Log (Top)
 <>: Stripped Oak Log (Side)
 <>: Stripped Oak Log (Top)
